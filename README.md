@@ -6,6 +6,7 @@ Descargar **netBeans** con junto a **JDK** para ejecutar este proyecto.
 
 Sepuede descargar los recurso necesarios de [netBeans](https://netbeans.apache.org/download/nb18/index.html) y [JDK](	
 https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip ( sha256 )) 
+
 <mark>Verificar las versiones de estos pueden estar desactualizadas</mark>.
 
 ## Descripción 
